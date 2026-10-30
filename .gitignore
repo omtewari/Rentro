@@ -1,0 +1,15 @@
+node_modules/
+dist/
+build/
+.expo/
+.expo-shared/
+.env
+.env.*
+!.env.example
+coverage/
+.turbo/
+.DS_Store
+*.log
+npm-debug.log*
+*.tsbuildinfo
+apps/api/prisma/*.db
